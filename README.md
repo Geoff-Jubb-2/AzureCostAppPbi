@@ -1,7 +1,7 @@
-# AzureCostAppPbi
+# Azure Cost App Improvements in Power Bi
 Azure Cost Management Template in PowerBi - Scripts, Code and Config 
 
-This report is based upon Microsoft PowerBi Azure Cost App and is meant to build upon the basic information breakdown provided by that tool. 
+This report is based on Microsoft PowerBi Azure Cost App and is meant to build upon the basic information breakdown provided by that tool. 
 
 These reports utilise imports from Azure Cloud Portal meant for analysis of FCTG Azure costs and consumption data within Power BI. This data is exported weekly (Early AM Monday, AEST time).  
 
